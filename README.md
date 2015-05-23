@@ -1,2 +1,2 @@
 # learnCoreJava
-All java files created while learning Core Java are here.
+All java files created,including packages, while learning Core Java are here.
