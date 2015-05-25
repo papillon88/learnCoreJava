@@ -19,12 +19,12 @@ public class B extends A{
 	
 	B(){
 		//super();
-		System.out.println("Called in the sub-class constructor...");
+		System.out.println("Called in the constructor of B...");
 		i = 200;
 	}
 	
 	public void print(){
-		System.out.println("Called in the sub-class print method...");
+		System.out.println("Called in the print method of B...");
 		System.out.println("Value of i in Class B: " + i);
 		System.out.println("Value of s in Class B: " + s);
 	}
