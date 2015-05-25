@@ -6,7 +6,7 @@ public class A {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("This is inside class A");
+		System.out.println("Inside class A");
 
 	}
 
